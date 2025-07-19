@@ -39,6 +39,7 @@ Only stock firmwares, no mods, no alterations. If you want modified firmware rea
 | [k5_2.01.33](firmware/k5_v2.01.33_publish.bin)    | Official fw, released 2024-03-05 (**UV-K5**)                               | 1.1.12           |
 | [k5_2.01.35](firmware/K5_ms_lpf32_v2.01.35_publish.bin)    | Official fw, released 2024-07 (**UV-K5**)                         | n/a              |
 | [k5_2.01.36](firmware/k5_v2.01.36_publish.bin)    | Official fw, released 2025-03-20 (**UV-K5**)                               | n/a              |
+| [k5_2.01.39](firmware/k5_v2.01.39_publish.bin)    | Not released, dumped from device 2025-07-19 (**universal**) #143           | n/a              |
 | [k6_3.00.10](firmware/k6_v3.00.10_flashable.bin)  | Not released, dumped from device (**UV-K6**)                               | n/a              |
 | [k6_3.00.15](firmware/k6_v3.00.15_publish.bin)    | Official fw, released 2023-09-02 (**UV-K6**)                               | 1.1.12           |
 | [k6_3.00.17](firmware/k6_v3.00.17_publish.bin)    | Official fw, released 2024-03-05 (**UV-K6**)                               | 1.1.12           |
