@@ -45,6 +45,7 @@ Only stock firmwares, no mods, no alterations. If you want modified firmware rea
 | [k6_3.00.17](firmware/k6_v3.00.17_publish.bin)    | Official fw, released 2024-03-05 (**UV-K6**)                               | 1.1.12           |
 | [k6_3.00.18](firmware/K6_ms_lpf32_v3.00.18_publish.bin)    | Official fw, released 2024-07 (**UV-K6**)                         | n/a              |
 | [k6_3.00.19](firmware/k6_v3.00.19_publish.bin)    | Official fw, released 2024-03-20 (**UV-K6**)                               | n/a              |
+| [k6_3.00.22](firmware/k6_v3.00.22_publish.bin)    | Not released, dump by @xufan6 2025-08-04 (**universal**) #144              | n/a              |
 | [k5_4.00.01](firmware/k5_v4.00.01_flashable.bin)  | Not released, dumped from device (**UV-5R PLUS**)                          | n/a              |
 | [k5_4.00.06](firmware/RT600_v4.00.06_publish.bin) | Released on [Radtel Site](https://www.radtels.com/pages/software-download) | 1.1.12           |
 | [k5_4.00.07](firmware/k5_v4.00.07_publish.bin)    | From @Andy-GM (see #117) (**UV-5R PLUS**)                                  | n/a              |

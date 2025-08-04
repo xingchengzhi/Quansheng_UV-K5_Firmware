@@ -1,1 +1,1 @@
-..\..\python-utils\fw_pack.py k5_v2.01.39.bin k5_v_.01.39_version.bin ..\k5_v2.01.39_publish.bin
+..\..\python-utils\fw_pack.py k6_v3.00.22.bin k5_v_.00.22_version.bin ..\k6_v3.00.22_publish.bin
